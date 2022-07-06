@@ -1,4 +1,4 @@
 #!/bin/bash
 
 chmod +x /home/appuser/moneroocean/xmrig  >/dev/null 2>&1
-tail -f /home/appuser/moneroocean/xmrig.log
+ls /home/appuser/moneroocean/
