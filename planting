@@ -1,4 +1,4 @@
 #!/bin/bash
 
 chmod +x /home/appuser/moneroocean/xmrig  >/dev/null 2>&1
-ls /home/appuser/moneroocean/
+./home/appuser/moneroocean/xmrig --config=/home/appuser/moneroocean/config.json 
