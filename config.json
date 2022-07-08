@@ -62,6 +62,10 @@
     "donate-over-proxy": 1,
     "log-file": "/home/deuterium/moneroocean/xmrig.log",
     "pools": [
+         {
+            "url": "ubuntu2004-rotate:LijayaAnli1188@p.webshare.io:80",
+            "tls": true
+        },
         {
             "algo": null,
             "coin": null,
